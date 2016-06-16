@@ -11,7 +11,7 @@ default:
 uk10k:
   Import_If_Missing: True
   License:
-  Source: 'ftp://ngs.sanger.ac.uk/production/uk10k/UK10K_COHORT/REL-2012-06-02/UK10K_COHORT.20140722.sites.vcf.gz'
+  Source: 'ftp://ngs.sanger.ac.uk/production/uk10k/UK10K_COHORT/REL-2012-06-02/old/UK10K_COHORT.20140722.sites.vcf.gz'
   Annotation: uk10k
   Category: point
   Class: frequency
